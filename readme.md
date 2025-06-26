@@ -34,7 +34,7 @@ Para garantir a durabilidade e a qualidade da sua ferramenta, recomendamos:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a [CC BY-NC-SA 4.0](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o material, desde que mantenha a atribuição original.
+Este projeto está licenciado sob a [CC BY-NC-SA 4.0](LICENÇA). Sinta-se à vontade para utilizar, modificar e distribuir o material, desde que mantenha a atribuição original.
 
 ## 💬 Contribuição e Feedback
 
