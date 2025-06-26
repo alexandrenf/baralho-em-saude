@@ -16,7 +16,7 @@ Esta ferramenta é ideal para ser utilizada em salas de espera, grupos educativo
 
 Para ter acesso aos arquivos do Baralho Educativo "Caminhos do SUS", incluindo todas as cartas prontas para impressão, você pode fazer o download do arquivo `.zip` diretamente aqui no GitHub.
 
-1.  **Acesse a página de [Releases](https://github.com/seu-usuario/nome-do-repositorio/releases)**
+1.  **Acesse a página de [Releases](https://github.com/alexandrenf/baralho-em-saude/releases)**
 2.  **Baixe a última versão** do arquivo `baralho-caminhos-sus.zip`.
 
 O arquivo `.zip` contém:
